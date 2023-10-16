@@ -1,2 +1,2 @@
-# foodflix-project-1
-Foodflix is a website that generates a random movie and dish based on your choices.
+# team-project
+1st group project for UCF coding bootcamp
